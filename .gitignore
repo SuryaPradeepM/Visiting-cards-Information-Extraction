@@ -140,5 +140,5 @@ cython_debug/
 # project specific files
 perspective_transform.py
 input_images/
-sample_results/
+results/
 text-detection-model/

@@ -53,6 +53,15 @@ will produce the following files in `results/`:
 
 The entity extraction results for `data/006.jpg` is:
 
+Input:
+
+Text Detection model outputs:
+
+
+Logo Detection results:
+
+
+Information Extraction results:
 ```json
 {
     "address": "350 SERRA MALL, ROOM 170\nSTANFORD, CALIFORNIA 94305-9505", 
