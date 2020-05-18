@@ -59,7 +59,7 @@ Input Image:
 <img src="/data/006.jpg" width=640 height=480 />
 </p>
 
-Text Detection model outputs:
+Text Detection model outputs(using [CTPN](https://github.com/eragonruan/text-detection-ctpn)):
 
 <p align="center">
 <img src="/sample_results/006.jpg" width=640 height=480 />
