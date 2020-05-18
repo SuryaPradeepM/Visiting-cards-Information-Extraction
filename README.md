@@ -33,7 +33,7 @@ For the text detection model, I'm using [CTPN](https://github.com/eragonruan/tex
 ```
 python3 main.py --imgs <img_path or directory containing images in jpg or png format>
 ```
-`main.py` will runs the `text detection` model, `OCR` model, `logo detection` model and `entity extraction` model and produces all the outputs in `results/` folder.
+`main.py` will runs the `text detection` model, `OCR`(based on [pytesseract](https://github.com/madmaze/pytesseract), `logo detection` (uses contour detection) and `entity extraction`(uses regex, templates and rules) and produces all the outputs in `results/` folder.
 
 `main.py` takes in argument `imgs` where you can specify either the path of the high quality visiting card or the path to the directory which contains all the high quality visiting cards in `jpg` or `png` format. The script first copies all the specified image(s) to `input_images/` directory and produces the corresponding outputs in `results/` folder. **Note**: During each run the contents of `input_images/` and `results/` folder will be cleared.
 
