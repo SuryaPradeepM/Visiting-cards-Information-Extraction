@@ -53,14 +53,23 @@ will produce the following files in `results/`:
 
 The entity extraction results for `data/006.jpg` is:
 
-Input:
-[Input image](<https://github.com/gowtham1997/Visiting-cards-Information-Extraction/blob/master/data/006.jpg>)
+Input Image:
+
+<p align="center">
+<img src="/data/006.jpg" width=640 height=480 />
+</p>
 
 Text Detection model outputs:
-[Text Detection results](https://github.com/gowtham1997/Visiting-cards-Information-Extraction/blob/master/sample_results/006.jpg)
+
+<p align="center">
+<img src="/sample_results/006.jpg" width=640 height=480 />
+,/p>
 
 Logo Detection results:
-[Logo Detection results](https://github.com/gowtham1997/Visiting-cards-Information-Extraction/blob/master/sample_results/logo_006.jpg)
+
+<p align="center">
+<img src="/sample_results/logo_006.png" width=640 height=480 />
+</p>
 
 Information Extraction results:
 ```json
@@ -75,8 +84,6 @@ Information Extraction results:
     "phone": ["6507259327", "9430595"]
 }
 ```
-
-The image results for the same file can be found in `sample_results/` folder
 
 
 ## Code hierarchy
