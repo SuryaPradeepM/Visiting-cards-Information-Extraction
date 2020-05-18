@@ -54,12 +54,13 @@ will produce the following files in `results/`:
 The entity extraction results for `data/006.jpg` is:
 
 Input:
+[Input image](https://github.com/gowtham1997/Visiting-cards-Information-Extraction/blob/master/data/006.jpg)
 
 Text Detection model outputs:
-
+[Text Detection results](https://github.com/gowtham1997/Visiting-cards-Information-Extraction/blob/master/sample_results/006.jpg)
 
 Logo Detection results:
-
+[Text Detection results](https://github.com/gowtham1997/Visiting-cards-Information-Extraction/blob/master/sample_results/logo_006.jpg)
 
 Information Extraction results:
 ```json
