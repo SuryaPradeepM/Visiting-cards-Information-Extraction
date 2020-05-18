@@ -26,6 +26,8 @@ cd visting_card_IE
 pip3 install -r requirements.txt
 ```
 
+For the text detection model, I'm using [CTPN](https://github.com/eragonruan/text-detection-ctpn), you may need to clone this to reproduce the results.
+
 ### Instructions for running the code
 
 ```
