@@ -21,7 +21,7 @@ Make sure to upgrade `pip` using `pip3 install --upgrade pip`
 
 ### Prerequisites
 
-```
+```bash
 cd visting_card_IE
 pip3 install -r requirements.txt
 ```
