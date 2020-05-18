@@ -14,9 +14,9 @@ from Visiting/Business cards.
 
 ## Getting Started
 
-    This code is fully compatible and tested with python 3.5.6. If you already have a higher version of python installed, use `pyenv` to install python 3.5.6. More instructions to install python 3.5.6 can be found [here](https://realpython.com/intro-to-pyenv/). Once you have python 3.5.6 installed with pyenv, you should also have pip(PIP is a package manager for Python packages, or modules). 
+This code is fully compatible and tested with python 3.5.6. If you already have a higher version of python installed, use `pyenv` to install python 3.5.6. More instructions to install python 3.5.6 can be found [here](https://realpython.com/intro-to-pyenv/). Once you have python 3.5.6 installed with pyenv, you should also have pip(PIP is a package manager for Python packages, or modules). 
 
-    Make sure to upgrade `pip` using `pip3 install --upgrade pip`
+Make sure to upgrade `pip` using `pip3 install --upgrade pip`
 
 
 ### Prerequisites
