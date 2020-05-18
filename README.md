@@ -26,6 +26,8 @@ pip3 install -r requirements.txt
 
 For the text detection model, I'm using [CTPN](https://github.com/eragonruan/text-detection-ctpn), you may need to clone this to reproduce the results.
 
+The dataset for testing was taken from [Stanford Mobile Visual Search](https://exhibits.stanford.edu/data/catalog/rb470rw0983)
+
 ### Instructions for running the code
 
 ```
