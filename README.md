@@ -65,7 +65,7 @@ Text Detection model outputs:
 
 <p align="center">
 <img src="/sample_results/006.jpg" width=640 height=480 />
-,/p>
+</p>
 
 Logo Detection results:
 
