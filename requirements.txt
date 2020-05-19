@@ -1,5 +1,5 @@
 Cython==0.29.14
-Pillow==6.2.1
+Pillow>=6.2.2
 PyYAML==5.2
 easydict==1.9
 future==0.18.2
